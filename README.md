@@ -1,0 +1,1 @@
+Task 19 – Top 10 Products by Sales using Microsoft Excel. Analyzed Superstore sales data, ranked products by total sales in descending order, and created a chart to visualize the top-performing products. Practiced data analysis, sorting, ranking, and data visualization as part of my Data Analytics internship at Veda Technology.
